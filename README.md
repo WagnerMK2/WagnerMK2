@@ -29,11 +29,5 @@
 <br />
 
 
-
----
-
-
-
 [website]: https://Wagnermk2.github.io
 [twitter]: https://twitter.com/WagnerMK2
-[linkedin]: https://linkedin.com/in/WagnerMK2
