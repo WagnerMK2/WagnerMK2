@@ -20,7 +20,6 @@
 
 <br />
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
 ### Languages and Tools:
 
@@ -36,4 +35,4 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 <br />
 
 [website]: https://Wagnermk2.github.io
-[twitter]: https://twitter.com/WagnerMK2
+[twitter]: https://twitter.com/markcwagner
