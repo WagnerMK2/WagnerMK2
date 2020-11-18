@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning things
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to my own projects
-- ⚡ Fun fact: Most of this page format is STOLEN
+- ⚡ Fun fact: Most of this page format is BORROWED
 
 
 ### Connect with me:
