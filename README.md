@@ -1,4 +1,8 @@
 ### Hi there, I'm MARK - aka [WagnerMK2][website] 👋
+<br />
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=wagnermk2 alt=WagnerMK2/> </p>
+
+<br />
 
 [![Website](https://img.shields.io/website?label=wagnermk2.github.io&style=for-the-badge&url=https%3A%2F%2Fwagnermk2.github.io)](https://wagnermk2.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/markcwagner?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarkcwagner&screen_name=markcwagner)
