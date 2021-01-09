@@ -12,8 +12,7 @@
 
 - 🌱 I’m currently learning things
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to my own projects
-- ⚡ Fun fact: Most of this page format is BORROWED
+- 🥅 2021 Goals: Clean up more of my own projects and post some board designs
 
 
 ### Connect with me:
