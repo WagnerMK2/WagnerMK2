@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/markcwagner?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarkcwagner&screen_name=markcwagner)
 
 
-## I'm a Husband, LRV technition, Human!!
+## I'm a LRV Technition and Human!!
 
 - 🌱 I’m currently learning things
 - 👯 I’m looking to collaborate with other content creators
