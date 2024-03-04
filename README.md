@@ -10,9 +10,9 @@
 
 ## I'm a LRV Technition and Human!!
 
-- 🌱 I’m currently learning things
+- 🌱 I’m currently learning engine managment tuning and setup and general reverse engineering topics
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Clean up more of my own projects and post some board designs
+- 🥅 2024 Goals: Clean up more of my own projects and post some board designs
 
 
 ### Connect with me:
